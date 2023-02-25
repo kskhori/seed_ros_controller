@@ -1,0 +1,18 @@
+hardware_interface:
+  joint_settings:
+    name:
+      - THK_PCS9S330
+  #    -torso_joint
+  #    - shoulder_joint
+  #    - elbow_joint
+  #    - eef_joint
+    id:
+      - 1
+#      - 2
+#      - 3
+#      - 4
+    actuator:
+#      - HA
+#      - BA
+#      - HA
+      - BA25
